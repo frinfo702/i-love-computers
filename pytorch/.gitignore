@@ -1,0 +1,5 @@
+.venv/
+**/*.pth
+
+data/
+output/
